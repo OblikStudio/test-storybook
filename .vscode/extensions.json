@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    // Allows you to write a `// ^?` comment under a line of TypeScript code to
+    // visually output the type in a screenshottable manner.
+    "Orta.vscode-twoslash-queries"
+  ]
+}
