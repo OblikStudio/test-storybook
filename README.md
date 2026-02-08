@@ -1,3 +1,7 @@
-# Minimal Storybook repo for MREs.
+# Incorrectly board `context` parameters in decorators
 
-Check the various different branches in the repo.
+1. Clone the repo
+2. Run `pnpm install`
+3. The types in `preview.tsx`
+
+Check the full issue here: https://github.com/storybookjs/storybook/issues/33801
